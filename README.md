@@ -1,15 +1,36 @@
-Flight Reservation System
+#  Flight Reservation App
 
- Overview
-A simple desktop application for managing flight reservations built with Python, Tkinter, and SQLite.
+A simple desktop app built using **Python**, **Tkinter**, and **SQLite** that allows users to book, view, update, and delete flight reservations.
 
-Features
-- Book new flights
-- View all reservations
-- Edit existing reservations
-- Delete reservations
+## 📌 Features
 
- Requirements
-- Python 3.6+
+- User-friendly GUI (Tkinter)
+- CRUD operations with SQLite
+- Modular code structure
+- Data saved locally in `flights.db`
+- EXE version available for Windows
+
+## 🧰 Technologies Used
+
+- Python
 - Tkinter
-- SQLite3
+- SQLite
+- Git & GitHub
+- PyInstaller
+
+
+# Getting started? 
+
+- git clone https://github.com/not-mido0/flight-reservation-app.git
+- cd flight-reservation-app
+- pip install -r requirements.txt
+- python main.py
+
+# Certficate 
+- Done as part of the Sprints x Microsoft Summer Camp – Python Track
+[Sprints x Microsoft Summer Camp Certificate](https://sprints.ai/journeys/learning/ID%20-%20SPR%20-%20R40O6A/view-certificate-serial)
+
+## License
+
+- This project is licensed under the MIT License.
+
